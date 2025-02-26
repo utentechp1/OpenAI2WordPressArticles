@@ -1,3 +1,7 @@
+Un esempio di blog generato da questo progetto è disponibile su [text](https://egreenkarma.com/). Tutti i contenuti disponibili su questo URL, sono stati generati in maniera completamente automatica da questo progetto Python.
+
+
+
 py_wordpress/
 │
 ├── venv/                  # Ambiente virtuale
@@ -14,6 +18,7 @@ py_wordpress/
 │ 
 ├── .env                   # File per variabili d'ambiente
 └── requirements.txt       # Dipendenze del progetto
+
 
 # avviare l'ambiente virtuale
 ```bash
